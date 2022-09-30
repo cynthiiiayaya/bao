@@ -1,0 +1,44 @@
+body{
+  font-family: 'Montserrat',sans-serif;
+  text-align: center;
+}
+
+/* Container */
+.container-fluid{
+  padding:5% 17%;}
+
+h1{
+  font-family: 'Caveat', cursive;
+  font-size: 60px;
+  margin-bottom: 36px;
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-weight:400;
+  font-size:24px;
+  color:#585858;
+}
+
+.buttonrow{
+  margin:36px auto;
+}
+
+.button{
+  padding:12px 100px;
+}
+.button:hover{
+  background-color:#FFDE69;
+  color:#585858;
+  font-weight:600;
+}
+
+.letter{
+  margin: 36px auto;
+  width:60%;
+}
+
+.kelvinphoto{
+  max-width: 500px;
+  margin-bottom: 56px;
+}
